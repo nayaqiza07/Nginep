@@ -1,0 +1,25 @@
+.header {
+  height: 100vh;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url(../image/img.jpg);
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: sans-serif;
+}
+
+.subheading {
+  margin-bottom: 1em;
+  text-align: center;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+}
+
+a {
+  text-decoration: none;
+}
